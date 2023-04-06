@@ -6,7 +6,7 @@ Kelompok 4:
 - Gilbert Evan Tilung 00000069610
 
 Link Github : 
-
+https://github.com/sharonerosee/Kelompok-4
 
 Aturan Permainan : 
 - Pemain akan melakukan click pada gambar yang ada untuk mendapatkan uang. 
